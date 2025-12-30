@@ -39,3 +39,7 @@ Sensitivity increased with higher biomolecule dielectric constant.
 🔹 Key Learning
 
 Developed strong understanding of device-level modeling, short-channel effects, and TCAD-based biosensor evaluation.
+
+🔒 About Code Availability
+
+If you are interested in full simulation decks or extended analysis, please raise an issue or contact the repository owner. Access may be provided on request for academic or research purposes.
